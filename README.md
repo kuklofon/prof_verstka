@@ -1,2 +1,2 @@
-# lessons_geek
+# GeekBrains
 # prof_verstka
